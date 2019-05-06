@@ -34,17 +34,9 @@ header ul {
   justify-content: space-around;
 }
 
-.images {
-  background-color: antiquewhite;
-  height: 50vh;
+section {
   display: flex;
   flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-content: center;
+  align-items: center;
 }
 
-.finalimage {
-  display: flex;
-  justify-content: center;
-}
